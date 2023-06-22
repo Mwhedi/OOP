@@ -1,0 +1,4 @@
+Added student:  ID=0, Name=Mohamad Wheidy, Email=Mohamad@gmail.com
+Added student: ID=1, Name=Ahmad Khaled, Email=Ahmad@google.com
+Updated student: ID=0, Name=Mohamad Omar Wheidy, Email='Mohamad.Geeks@Gmail.ps
+Deleted student: ID=1, Name=Ahmad Khaled, Email=Ahmad@google.com
